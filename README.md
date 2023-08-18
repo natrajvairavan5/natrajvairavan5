@@ -4,7 +4,7 @@
 
 📖 I love reading economic, statistics, and machine learning research to learn more about the cutting-edge tools currently being developed!
 
-🧠 I am proficient in statistical and probability theory, econometrics and causal inference, predictive machine learning, data pipelining, and more! I am currently trying to learn more about Bayesian statistics and NLP.
+🧠 I am proficient in statistical and probability theory, econometrics and causal inference, predictive machine learning, data pipelining, web-scraping, and more! I am currently trying to learn more about Bayesian statistics and NLP.
 
 💬 I'd love to talk to anyone about data science and economics, especially on topics related to policy. Machine learning and NLP are tools I love to incorporate when conducting research!
 
