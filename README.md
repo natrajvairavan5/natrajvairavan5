@@ -2,7 +2,7 @@
 
 🐻 I'm a junior studying Economics and Statistics at UC Berkeley. I've worked on data analysis heavy projects with organizations such as the U.S. Census Bureau, the Bureau of Economic Analysis, the Small Business Administration, and Change.org.
 
-📖 I love reading economic, statistics, and machine learning research to learn more about the cutting-edge tools currently being developed!
+📖 I love reading economic, statistics, and machine learning research to learn more about the cutting-edge tools currently being developed! My current research interest is regarding the prediction and analysis of economic time series data.
 
 🧠 I am proficient in statistical and probability theory, econometrics and causal inference, predictive machine learning, data pipelining, web-scraping, and more! I am currently trying to learn more about Bayesian statistics and NLP.
 
