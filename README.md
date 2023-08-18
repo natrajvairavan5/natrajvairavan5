@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Natraj Vairavan, a third-year UC Berkeley Economics & Statistics student who loves using statistics and data science to conduct research in the space of finance and economic policy!
+### Hello! 👋 I'm Natraj Vairavan, a third-year UC Berkeley Economics & Statistics student who loves conducting data analysis to generate insights in finance and economic policy!
 
 🐻 I'm a junior studying Economics and Statistics at UC Berkeley. I've worked on data analysis heavy projects with organizations such as the U.S. Census Bureau, the Bureau of Economic Analysis, the Small Business Administration, and Change.org.
 
