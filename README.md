@@ -6,7 +6,7 @@
 
 🧠 I am proficient in statistical and probability theory, econometrics and causal inference, predictive machine learning, data pipelining, web-scraping, and more! I am currently trying to learn more about Bayesian statistics and NLP.
 
-💬 I'd love to talk to anyone about data science and economics, especially on topics related to policy. Machine learning and NLP are tools I love to incorporate when conducting research!
+💬 I'd love to talk to anyone about data science and economics, especially on topics related to policy. Machine learning, NLP, and other data science developments are increasingly being used in economic research, which is why I'd be happy to have a discussion about this with you!
 
 📫 Feel free to reach out - I'd love to chat!
 - natrajvairavan5@berkeley.edu
